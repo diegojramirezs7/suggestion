@@ -1,1 +1,1 @@
-Linux course for generating suggestings using ML
+LinkedIn course for generating suggestions using ML and Python
